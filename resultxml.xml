@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="31.093">
+<testcase classname="Test ClassicsJavaA App" name="Open and Close ClassicsJavaA App" time="10.497928">
+<system-out><![CDATA[Given I start ClassicsJavaA App.............................................passed
+Then I close the App........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test ClassicsJavaA App" name="maximize and restore ClassicsJavaA App" time="20.595072">
+<system-out><![CDATA[Given I start ClassicsJavaA App.............................................passed
+Then I maximize the App.....................................................passed
+Then I click the same button to restore the App.............................passed
+Then I close the App........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
